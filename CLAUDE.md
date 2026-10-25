@@ -2,10 +2,11 @@
 
 Polish air quality browser (GIOŚ data). Spring Boot + PostgreSQL + MongoDB backend, React + Vite frontend.
 
-**Read [docs/HANDOFF.md](docs/HANDOFF.md) before making changes.** It defines the fixed scope (F1–F7), the stack, the schema and the ground rules. Ideas outside that scope go in `docs/ideas.md`, not in code.
+Scope is fixed by [docs/DoD.md](docs/DoD.md) (features F1–F7 and cross-cutting requirements). Anything not on that list goes to `docs/ideas.md`, not into code. The schema is documented in [docs/schema.dbml](docs/schema.dbml). Everything known about GIOŚ data (API shapes, zip format, time zones, units, import decisions) is in [docs/gios.md](docs/gios.md); read it before touching the importer.
 
-Key rules (details in HANDOFF §9):
-- Never fabricate measurements; missing values are no row, never 0.
+Key rules:
+- Never fabricate measurements; missing values are no row, never 0. Seed data, if any, is clearly labelled as test data.
+- Backend: REST returns DTOs, never entities; errors use RFC 7807 `ProblemDetail`; validation via Bean Validation; OpenAPI via springdoc; no Lombok.
 - Schema changes only via new Flyway migrations, with `docs/schema.dbml` updated in the same commit. Ask before changing the schema after V1.
 - No new dependencies or services without saying why.
 - Frontend is mobile-first: design and build every view for a phone first (375 px), then add `sm:`/`md:` breakpoints for larger screens. Touch targets at least 44 px, no hover-only interactions, no horizontal page scroll. Not a PWA (no service worker, manifest or offline mode).
@@ -13,11 +14,14 @@ Key rules (details in HANDOFF §9):
 ## Dev commands
 
 ```bash
-cp .env.example .env          # first time only, then set passwords
-docker compose up -d          # start postgres + mongo
-docker compose ps             # check health
-docker compose down           # stop (add -v to wipe data volumes)
+cp .env.example .env                     # first time only, then set passwords
+docker compose up -d postgres mongo      # day-to-day: databases only, run backend/frontend locally
+docker compose up -d --build             # whole stack: frontend :3000 (proxies /api), backend :8080
+docker compose ps                        # check health
+docker compose down                      # stop (add -v to wipe data volumes)
 ```
+
+Local development runs the backend and frontend outside Docker against the compose databases. The full stack in compose is for checking the finished thing; stop its `backend` container before `./mvnw spring-boot:run`, since both use port 8080.
 
 Backend (Java 25, Spring Boot 4.1; run from `backend/`, Maven only via the wrapper):
 

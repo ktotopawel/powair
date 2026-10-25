@@ -4,7 +4,7 @@ Browse Polish air quality data from GIOŚ: stations, current readings, history c
 
 Data source: [GIOŚ](https://powietrze.gios.gov.pl/) (Główny Inspektorat Ochrony Środowiska).
 
-> Work in progress. Setup, data import and known limitations will be documented here as the project is built. See [docs/HANDOFF.md](docs/HANDOFF.md) for the plan.
+> Work in progress. Setup, data import and known limitations will be documented here as the project is built. See [docs/DoD.md](docs/DoD.md) for the scope.
 
 ## Local setup (so far)
 
