@@ -8,6 +8,7 @@ Key rules (details in HANDOFF §9):
 - Never fabricate measurements; missing values are no row, never 0.
 - Schema changes only via new Flyway migrations, with `docs/schema.dbml` updated in the same commit. Ask before changing the schema after V1.
 - No new dependencies or services without saying why.
+- Frontend is mobile-first: design and build every view for a phone first (375 px), then add `sm:`/`md:` breakpoints for larger screens. Touch targets at least 44 px, no hover-only interactions, no horizontal page scroll. Not a PWA (no service worker, manifest or offline mode).
 
 ## Dev commands
 
@@ -30,4 +31,13 @@ Health check: `curl localhost:8080/actuator/health` (shows `db` and `mongo` stat
 
 API requests live in the Bruno collection in `bruno/` (open the folder in Bruno, pick the `local` environment). Add a `.bru` request under `bruno/PowAir/` for each new endpoint. Never put tokens or passwords in `.bru` files; use Bruno secret variables.
 
-Frontend commands will be added here once that project is created.
+Frontend (React 19, Vite 8, Tailwind 4, React Router 8, TanStack Query; run from `frontend/`):
+
+```bash
+npm install
+npm run dev                   # http://localhost:5173, proxies /api to localhost:8080
+npm run build                 # type-check + production build to dist/
+npm run lint                  # oxlint
+```
+
+`docker compose up -d --build frontend` serves the production build via nginx on http://localhost:3000.

@@ -38,6 +38,12 @@ services:
       start_period: 20s
     restart: unless-stopped
 
+  frontend:
+    build: ./frontend
+    ports:
+      - "127.0.0.1:${FRONTEND_PORT:-3000}:80"
+    restart: unless-stopped
+
 volumes:
   postgres-data:
   mongo-data:

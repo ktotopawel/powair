@@ -1,0 +1,3045 @@
+{
+  "@context": {
+    "meta": "https://schema.org/meta",
+    "totalPages": "https://schema.org/totalPages",
+    "links": "https://schema.org/links"
+  },
+  "@context": {
+    "Lista archiwalnych wyników pomiarów": {
+      "@id": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship"
+    },
+    "links": "https://schema.org/relatedLink",
+    "totalPages": "https://schema.org/numberOfPages"
+  },
+  "Lista archiwalnych wyników pomiarów": [
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 00:00:00",
+      "Wartość": 29.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 01:00:00",
+      "Wartość": 88.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 02:00:00",
+      "Wartość": 16.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 03:00:00",
+      "Wartość": 15.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 04:00:00",
+      "Wartość": 21.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 05:00:00",
+      "Wartość": 19.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 06:00:00",
+      "Wartość": 26.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 07:00:00",
+      "Wartość": 8.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 08:00:00",
+      "Wartość": 9.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 09:00:00",
+      "Wartość": 8.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 10:00:00",
+      "Wartość": 11.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 11:00:00",
+      "Wartość": 19.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 12:00:00",
+      "Wartość": 9.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 13:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 14:00:00",
+      "Wartość": 18.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 15:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 16:00:00",
+      "Wartość": 12.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 17:00:00",
+      "Wartość": 10.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 18:00:00",
+      "Wartość": 8.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 19:00:00",
+      "Wartość": 8.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 20:00:00",
+      "Wartość": 14.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 21:00:00",
+      "Wartość": 11.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 22:00:00",
+      "Wartość": 8.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-01 23:00:00",
+      "Wartość": 6.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 00:00:00",
+      "Wartość": 7.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 01:00:00",
+      "Wartość": 8.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 02:00:00",
+      "Wartość": 10.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 03:00:00",
+      "Wartość": 11.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 04:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 05:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 06:00:00",
+      "Wartość": 9.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 07:00:00",
+      "Wartość": 8.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 08:00:00",
+      "Wartość": 5.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 09:00:00",
+      "Wartość": 6.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 10:00:00",
+      "Wartość": 10.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 11:00:00",
+      "Wartość": 7.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 12:00:00",
+      "Wartość": 8.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 13:00:00",
+      "Wartość": 9.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 14:00:00",
+      "Wartość": 11.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 15:00:00",
+      "Wartość": 19.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 16:00:00",
+      "Wartość": 19.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 17:00:00",
+      "Wartość": 25.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 18:00:00",
+      "Wartość": 27.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 19:00:00",
+      "Wartość": 23.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 20:00:00",
+      "Wartość": 17.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 21:00:00",
+      "Wartość": 11.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 22:00:00",
+      "Wartość": 12.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-02 23:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 00:00:00",
+      "Wartość": 11.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 01:00:00",
+      "Wartość": 8.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 02:00:00",
+      "Wartość": 15.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 03:00:00",
+      "Wartość": 14.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 04:00:00",
+      "Wartość": 10.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 05:00:00",
+      "Wartość": 8.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 06:00:00",
+      "Wartość": 12.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 07:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 08:00:00",
+      "Wartość": 16.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 09:00:00",
+      "Wartość": 11.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 10:00:00",
+      "Wartość": 11.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 11:00:00",
+      "Wartość": 10.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 12:00:00",
+      "Wartość": 10.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 13:00:00",
+      "Wartość": 7.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 14:00:00",
+      "Wartość": 10.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 15:00:00",
+      "Wartość": 8.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 16:00:00",
+      "Wartość": 6.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 17:00:00",
+      "Wartość": 11.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 18:00:00",
+      "Wartość": 7.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 19:00:00",
+      "Wartość": 6.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 20:00:00",
+      "Wartość": 12.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 21:00:00",
+      "Wartość": 10.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 22:00:00",
+      "Wartość": 14.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-03 23:00:00",
+      "Wartość": 11.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 00:00:00",
+      "Wartość": 16.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 01:00:00",
+      "Wartość": 11.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 02:00:00",
+      "Wartość": 10.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 03:00:00",
+      "Wartość": 7.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 04:00:00",
+      "Wartość": 11.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 05:00:00",
+      "Wartość": 12.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 06:00:00",
+      "Wartość": 8.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 07:00:00",
+      "Wartość": 9.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 08:00:00",
+      "Wartość": 17.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 09:00:00",
+      "Wartość": 13.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 10:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 11:00:00",
+      "Wartość": 14.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 12:00:00",
+      "Wartość": 13.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 13:00:00",
+      "Wartość": 12.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 14:00:00",
+      "Wartość": 11.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 15:00:00",
+      "Wartość": 13.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 16:00:00",
+      "Wartość": 21.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 17:00:00",
+      "Wartość": 38.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 18:00:00",
+      "Wartość": 39.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 19:00:00",
+      "Wartość": 41.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 20:00:00",
+      "Wartość": 31.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 21:00:00",
+      "Wartość": 27.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 22:00:00",
+      "Wartość": 24.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-04 23:00:00",
+      "Wartość": 26.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 00:00:00",
+      "Wartość": 20.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 01:00:00",
+      "Wartość": 24.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 02:00:00",
+      "Wartość": 25.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 03:00:00",
+      "Wartość": 22.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 04:00:00",
+      "Wartość": 24.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 05:00:00",
+      "Wartość": 13.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 06:00:00",
+      "Wartość": 18.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 07:00:00",
+      "Wartość": 18.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 08:00:00",
+      "Wartość": 9.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 09:00:00",
+      "Wartość": 15.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 10:00:00",
+      "Wartość": 14.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 11:00:00",
+      "Wartość": 20.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 12:00:00",
+      "Wartość": 30.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 13:00:00",
+      "Wartość": 28.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 14:00:00",
+      "Wartość": 37.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 15:00:00",
+      "Wartość": 74.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 16:00:00",
+      "Wartość": 72.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 17:00:00",
+      "Wartość": 72.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 18:00:00",
+      "Wartość": 44.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 19:00:00",
+      "Wartość": 15.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 20:00:00",
+      "Wartość": 17.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 21:00:00",
+      "Wartość": 16.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 22:00:00",
+      "Wartość": 12.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-05 23:00:00",
+      "Wartość": 12.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 00:00:00",
+      "Wartość": 8.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 01:00:00",
+      "Wartość": 7.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 02:00:00",
+      "Wartość": 6.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 03:00:00",
+      "Wartość": 25.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 04:00:00",
+      "Wartość": 7.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 05:00:00",
+      "Wartość": 6.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 06:00:00",
+      "Wartość": 13.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 07:00:00",
+      "Wartość": 5.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 08:00:00",
+      "Wartość": 5.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 09:00:00",
+      "Wartość": 4.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 10:00:00",
+      "Wartość": 10.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 11:00:00",
+      "Wartość": 8.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 12:00:00",
+      "Wartość": 7.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 13:00:00",
+      "Wartość": 8.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 14:00:00",
+      "Wartość": 6.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 15:00:00",
+      "Wartość": 8.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 16:00:00",
+      "Wartość": 12.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 17:00:00",
+      "Wartość": 12.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 18:00:00",
+      "Wartość": 10.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 19:00:00",
+      "Wartość": 10.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 20:00:00",
+      "Wartość": 14.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 21:00:00",
+      "Wartość": 12.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 22:00:00",
+      "Wartość": 10.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-06 23:00:00",
+      "Wartość": 9.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 00:00:00",
+      "Wartość": 15.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 01:00:00",
+      "Wartość": 13.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 02:00:00",
+      "Wartość": 16.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 03:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 04:00:00",
+      "Wartość": 10.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 05:00:00",
+      "Wartość": 10.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 06:00:00",
+      "Wartość": 10.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 07:00:00",
+      "Wartość": 13.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 08:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 09:00:00",
+      "Wartość": 14.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 10:00:00",
+      "Wartość": 20.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 11:00:00",
+      "Wartość": 9.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 12:00:00",
+      "Wartość": 19.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 13:00:00",
+      "Wartość": 20.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 14:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 15:00:00",
+      "Wartość": 14.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 16:00:00",
+      "Wartość": 12.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 17:00:00",
+      "Wartość": 10.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 18:00:00",
+      "Wartość": 7.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 19:00:00",
+      "Wartość": 15.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 20:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 21:00:00",
+      "Wartość": 5.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 22:00:00",
+      "Wartość": 6.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-07 23:00:00",
+      "Wartość": 5.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 00:00:00",
+      "Wartość": 3.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 01:00:00",
+      "Wartość": 3.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 02:00:00",
+      "Wartość": 6.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 03:00:00",
+      "Wartość": 5.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 04:00:00",
+      "Wartość": 4.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 05:00:00",
+      "Wartość": 4.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 06:00:00",
+      "Wartość": 5.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 07:00:00",
+      "Wartość": 6.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 08:00:00",
+      "Wartość": 7.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 09:00:00",
+      "Wartość": 7.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 10:00:00",
+      "Wartość": 5.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 11:00:00",
+      "Wartość": 6.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 12:00:00",
+      "Wartość": 5.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 13:00:00",
+      "Wartość": 12.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-08 14:00:00",
+      "Wartość": 17.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 15:00:00",
+      "Wartość": 4.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 16:00:00",
+      "Wartość": 9.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 17:00:00",
+      "Wartość": 6.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 18:00:00",
+      "Wartość": 7.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 19:00:00",
+      "Wartość": 5.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 20:00:00",
+      "Wartość": 3.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 21:00:00",
+      "Wartość": 3.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 22:00:00",
+      "Wartość": 4.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-09 23:00:00",
+      "Wartość": 7.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 00:00:00",
+      "Wartość": 5.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 01:00:00",
+      "Wartość": 3.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 02:00:00",
+      "Wartość": 4.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 03:00:00",
+      "Wartość": 6.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 04:00:00",
+      "Wartość": 6.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 05:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 06:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 07:00:00",
+      "Wartość": 6.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 08:00:00",
+      "Wartość": 7.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 09:00:00",
+      "Wartość": 6.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 10:00:00",
+      "Wartość": 9.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 11:00:00",
+      "Wartość": 12.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 12:00:00",
+      "Wartość": 11.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 13:00:00",
+      "Wartość": 13.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 14:00:00",
+      "Wartość": 12.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 15:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 16:00:00",
+      "Wartość": 13.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 17:00:00",
+      "Wartość": 13.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 18:00:00",
+      "Wartość": 13.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 19:00:00",
+      "Wartość": 14.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 20:00:00",
+      "Wartość": 11.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 21:00:00",
+      "Wartość": 7.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 22:00:00",
+      "Wartość": 8.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-10 23:00:00",
+      "Wartość": 9.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 00:00:00",
+      "Wartość": 8.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 01:00:00",
+      "Wartość": 12.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 02:00:00",
+      "Wartość": 8.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 03:00:00",
+      "Wartość": 10.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 04:00:00",
+      "Wartość": 13.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 05:00:00",
+      "Wartość": 10.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 06:00:00",
+      "Wartość": 9.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 07:00:00",
+      "Wartość": 9.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 08:00:00",
+      "Wartość": 10.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 09:00:00",
+      "Wartość": 8.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 10:00:00",
+      "Wartość": 9.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 11:00:00",
+      "Wartość": 17.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 12:00:00",
+      "Wartość": 10.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 13:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 14:00:00",
+      "Wartość": 13.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 15:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 16:00:00",
+      "Wartość": 9.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 17:00:00",
+      "Wartość": 11.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 18:00:00",
+      "Wartość": 16.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 19:00:00",
+      "Wartość": 13.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 20:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 21:00:00",
+      "Wartość": 8.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 22:00:00",
+      "Wartość": 11.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-11 23:00:00",
+      "Wartość": 9.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 00:00:00",
+      "Wartość": 9.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 01:00:00",
+      "Wartość": 9.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 02:00:00",
+      "Wartość": 8.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 03:00:00",
+      "Wartość": 8.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 04:00:00",
+      "Wartość": 9.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 05:00:00",
+      "Wartość": 7.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 06:00:00",
+      "Wartość": 12.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 07:00:00",
+      "Wartość": 9.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 08:00:00",
+      "Wartość": 8.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 09:00:00",
+      "Wartość": 6.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 10:00:00",
+      "Wartość": 12.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 11:00:00",
+      "Wartość": 9.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 12:00:00",
+      "Wartość": 10.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 13:00:00",
+      "Wartość": 10.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 14:00:00",
+      "Wartość": 8.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 15:00:00",
+      "Wartość": 13.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 16:00:00",
+      "Wartość": 13.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 17:00:00",
+      "Wartość": 13.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 18:00:00",
+      "Wartość": 10.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 19:00:00",
+      "Wartość": 17.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 20:00:00",
+      "Wartość": 16.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 21:00:00",
+      "Wartość": 15.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 22:00:00",
+      "Wartość": 16.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-12 23:00:00",
+      "Wartość": 17.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 00:00:00",
+      "Wartość": 15.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 01:00:00",
+      "Wartość": 10.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 02:00:00",
+      "Wartość": 12.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 03:00:00",
+      "Wartość": 14.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 04:00:00",
+      "Wartość": 9.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 05:00:00",
+      "Wartość": 12.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 06:00:00",
+      "Wartość": 11.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 07:00:00",
+      "Wartość": 15.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 08:00:00",
+      "Wartość": 14.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 09:00:00",
+      "Wartość": 17.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 10:00:00",
+      "Wartość": 23.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 11:00:00",
+      "Wartość": 19.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 12:00:00",
+      "Wartość": 16.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 13:00:00",
+      "Wartość": 20.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 14:00:00",
+      "Wartość": 15.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 15:00:00",
+      "Wartość": 18.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 16:00:00",
+      "Wartość": 18.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 17:00:00",
+      "Wartość": 27.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 18:00:00",
+      "Wartość": 44.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 19:00:00",
+      "Wartość": 40.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 20:00:00",
+      "Wartość": 44.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 21:00:00",
+      "Wartość": 50.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 22:00:00",
+      "Wartość": 39.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-13 23:00:00",
+      "Wartość": 42.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 00:00:00",
+      "Wartość": 39.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 01:00:00",
+      "Wartość": 28.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 02:00:00",
+      "Wartość": 26.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 03:00:00",
+      "Wartość": 27.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 04:00:00",
+      "Wartość": 27.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 05:00:00",
+      "Wartość": 28.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 06:00:00",
+      "Wartość": 23.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 07:00:00",
+      "Wartość": 25.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 08:00:00",
+      "Wartość": 22.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 09:00:00",
+      "Wartość": 25.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 10:00:00",
+      "Wartość": 27.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 11:00:00",
+      "Wartość": 21.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 12:00:00",
+      "Wartość": 26.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 13:00:00",
+      "Wartość": 28.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 14:00:00",
+      "Wartość": 28.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 15:00:00",
+      "Wartość": 25.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 16:00:00",
+      "Wartość": 24.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 17:00:00",
+      "Wartość": 18.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 18:00:00",
+      "Wartość": 24.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 19:00:00",
+      "Wartość": 20.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 20:00:00",
+      "Wartość": 10.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 21:00:00",
+      "Wartość": 9.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 22:00:00",
+      "Wartość": 10.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-14 23:00:00",
+      "Wartość": 8.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 00:00:00",
+      "Wartość": 23.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 01:00:00",
+      "Wartość": 17.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 02:00:00",
+      "Wartość": 9.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 03:00:00",
+      "Wartość": 10.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 04:00:00",
+      "Wartość": 6.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 05:00:00",
+      "Wartość": 10.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 06:00:00",
+      "Wartość": 13.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 07:00:00",
+      "Wartość": 13.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 08:00:00",
+      "Wartość": 12.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 09:00:00",
+      "Wartość": 14.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 10:00:00",
+      "Wartość": 13.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 11:00:00",
+      "Wartość": 15.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 12:00:00",
+      "Wartość": 12.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 13:00:00",
+      "Wartość": 12.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 14:00:00",
+      "Wartość": 11.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 15:00:00",
+      "Wartość": 18.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 16:00:00",
+      "Wartość": 23.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 17:00:00",
+      "Wartość": 28.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 18:00:00",
+      "Wartość": 35.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 19:00:00",
+      "Wartość": 34.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 20:00:00",
+      "Wartość": 26.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 21:00:00",
+      "Wartość": 41.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 22:00:00",
+      "Wartość": 34.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-15 23:00:00",
+      "Wartość": 33.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 00:00:00",
+      "Wartość": 32.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 01:00:00",
+      "Wartość": 34.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 02:00:00",
+      "Wartość": 32.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 03:00:00",
+      "Wartość": 26.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 04:00:00",
+      "Wartość": 54.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 05:00:00",
+      "Wartość": 26.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 06:00:00",
+      "Wartość": 30.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 07:00:00",
+      "Wartość": 23.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 08:00:00",
+      "Wartość": 25.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 09:00:00",
+      "Wartość": 22.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 10:00:00",
+      "Wartość": 23.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 11:00:00",
+      "Wartość": 24.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 12:00:00",
+      "Wartość": 21.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 13:00:00",
+      "Wartość": 24.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 14:00:00",
+      "Wartość": 26.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 15:00:00",
+      "Wartość": 23.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 16:00:00",
+      "Wartość": 32.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 17:00:00",
+      "Wartość": 28.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 18:00:00",
+      "Wartość": 29.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 19:00:00",
+      "Wartość": 36.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 20:00:00",
+      "Wartość": 23.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 21:00:00",
+      "Wartość": 22.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 22:00:00",
+      "Wartość": 21.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-16 23:00:00",
+      "Wartość": 22.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 00:00:00",
+      "Wartość": 21.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 01:00:00",
+      "Wartość": 31.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 02:00:00",
+      "Wartość": 29.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 03:00:00",
+      "Wartość": 29.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 04:00:00",
+      "Wartość": 23.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 05:00:00",
+      "Wartość": 24.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 06:00:00",
+      "Wartość": 23.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 07:00:00",
+      "Wartość": 21.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 08:00:00",
+      "Wartość": 29.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 09:00:00",
+      "Wartość": 33.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 10:00:00",
+      "Wartość": 28.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 11:00:00",
+      "Wartość": 18.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 12:00:00",
+      "Wartość": 19.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 13:00:00",
+      "Wartość": 21.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 14:00:00",
+      "Wartość": 19.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 15:00:00",
+      "Wartość": 25.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 16:00:00",
+      "Wartość": 18.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 17:00:00",
+      "Wartość": 27.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 18:00:00",
+      "Wartość": 46.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 19:00:00",
+      "Wartość": 72.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 20:00:00",
+      "Wartość": 80.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 21:00:00",
+      "Wartość": 74.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 22:00:00",
+      "Wartość": 83.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-17 23:00:00",
+      "Wartość": 83.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 00:00:00",
+      "Wartość": 75.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 01:00:00",
+      "Wartość": 78.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 02:00:00",
+      "Wartość": 70.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 03:00:00",
+      "Wartość": 48.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 04:00:00",
+      "Wartość": 37.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 05:00:00",
+      "Wartość": 31.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 06:00:00",
+      "Wartość": 29.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 07:00:00",
+      "Wartość": 33.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 08:00:00",
+      "Wartość": 43.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 09:00:00",
+      "Wartość": 38.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 10:00:00",
+      "Wartość": 38.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 11:00:00",
+      "Wartość": 40.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 12:00:00",
+      "Wartość": 44.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 13:00:00",
+      "Wartość": 58.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 14:00:00",
+      "Wartość": 39.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 15:00:00",
+      "Wartość": 43.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 16:00:00",
+      "Wartość": 43.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 17:00:00",
+      "Wartość": 66.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 18:00:00",
+      "Wartość": 75.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 19:00:00",
+      "Wartość": 82.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 20:00:00",
+      "Wartość": 107.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 21:00:00",
+      "Wartość": 112.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 22:00:00",
+      "Wartość": 109.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-18 23:00:00",
+      "Wartość": 89.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 00:00:00",
+      "Wartość": 80.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 01:00:00",
+      "Wartość": 85.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 02:00:00",
+      "Wartość": 97.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 03:00:00",
+      "Wartość": 86.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 04:00:00",
+      "Wartość": 54.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 05:00:00",
+      "Wartość": 47.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 06:00:00",
+      "Wartość": 37.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 07:00:00",
+      "Wartość": 32.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 08:00:00",
+      "Wartość": 27.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 09:00:00",
+      "Wartość": 25.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 10:00:00",
+      "Wartość": 25.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 11:00:00",
+      "Wartość": 37.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 12:00:00",
+      "Wartość": 32.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 13:00:00",
+      "Wartość": 60.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 14:00:00",
+      "Wartość": 78.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 15:00:00",
+      "Wartość": 74.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 16:00:00",
+      "Wartość": 93.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 17:00:00",
+      "Wartość": 89.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 18:00:00",
+      "Wartość": 109.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 19:00:00",
+      "Wartość": 108.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 20:00:00",
+      "Wartość": 117.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 21:00:00",
+      "Wartość": 119.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 22:00:00",
+      "Wartość": 121.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-19 23:00:00",
+      "Wartość": 121.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 00:00:00",
+      "Wartość": 104.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 01:00:00",
+      "Wartość": 116.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 02:00:00",
+      "Wartość": 80.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 03:00:00",
+      "Wartość": 64.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 04:00:00",
+      "Wartość": 49.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 05:00:00",
+      "Wartość": 42.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 06:00:00",
+      "Wartość": 44.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 07:00:00",
+      "Wartość": 38.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 08:00:00",
+      "Wartość": 39.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 09:00:00",
+      "Wartość": 56.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 10:00:00",
+      "Wartość": 58.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 11:00:00",
+      "Wartość": 65.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 12:00:00",
+      "Wartość": 63.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 13:00:00",
+      "Wartość": 62.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 14:00:00",
+      "Wartość": 55.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 15:00:00",
+      "Wartość": 42.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 16:00:00",
+      "Wartość": 42.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 17:00:00",
+      "Wartość": 45.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 18:00:00",
+      "Wartość": 70.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 19:00:00",
+      "Wartość": 84.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 20:00:00",
+      "Wartość": 73.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 21:00:00",
+      "Wartość": 74.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 22:00:00",
+      "Wartość": 69.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-20 23:00:00",
+      "Wartość": 70.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 00:00:00",
+      "Wartość": 70.3
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 01:00:00",
+      "Wartość": 80.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 02:00:00",
+      "Wartość": 59.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 03:00:00",
+      "Wartość": 67.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 04:00:00",
+      "Wartość": 53.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 05:00:00",
+      "Wartość": 36.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 06:00:00",
+      "Wartość": 41.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 07:00:00",
+      "Wartość": 32.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 08:00:00",
+      "Wartość": 39.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 09:00:00",
+      "Wartość": 38.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 10:00:00",
+      "Wartość": 38.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 11:00:00",
+      "Wartość": 44.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 12:00:00",
+      "Wartość": 41.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 13:00:00",
+      "Wartość": 36.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 14:00:00",
+      "Wartość": 46.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 15:00:00",
+      "Wartość": 43.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 16:00:00",
+      "Wartość": 34.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 17:00:00",
+      "Wartość": 43.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 18:00:00",
+      "Wartość": 52.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 19:00:00",
+      "Wartość": 56.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 20:00:00",
+      "Wartość": 56.8
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 21:00:00",
+      "Wartość": 45.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 22:00:00",
+      "Wartość": 60.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-21 23:00:00",
+      "Wartość": 56.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 00:00:00",
+      "Wartość": 68.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 01:00:00",
+      "Wartość": 86.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 02:00:00",
+      "Wartość": 68.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 03:00:00",
+      "Wartość": 81.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 04:00:00",
+      "Wartość": 79.2
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 05:00:00",
+      "Wartość": 81.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 06:00:00",
+      "Wartość": 102.7
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 07:00:00",
+      "Wartość": 104.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 08:00:00",
+      "Wartość": 79.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 09:00:00",
+      "Wartość": 90.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 10:00:00",
+      "Wartość": 79.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 11:00:00",
+      "Wartość": 109.0
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 12:00:00",
+      "Wartość": 102.6
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 13:00:00",
+      "Wartość": 93.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 14:00:00",
+      "Wartość": 88.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 15:00:00",
+      "Wartość": 68.4
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 16:00:00",
+      "Wartość": 68.1
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 17:00:00",
+      "Wartość": 65.5
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 18:00:00",
+      "Wartość": 93.9
+    },
+    {
+      "Nazwa stacji": "Bielsko-Biała, ul. Kossak-Szczuckiej",
+      "Kod stanowiska": "SlBielKossak-PM10-1g",
+      "Data": "2025-01-22 19:00:00",
+      "Wartość": 117.3
+    }
+  ],
+  "meta": {
+    "dc:description": "Usługa sieciowa udostępniająca archiwalne wyniki pomiarów ze stanowisk automatycznych i manualnych z wybranego roku kalendarzowego (również dotychczas zgromadzone wyniki pomiarów w roku bieżącym) dla wybranego zanieczyszczenia lub wszystkich zanieczyszczeń łącznie, ze wszystkich stacji pomiarowych w wybranym województwie. Wyniki pomiarów  jednogodzinnych udostępniane są w czasie CET (UTC+1)",
+    "dc:language": "pol (ISO 639-2 / ISO 639-3)",
+    "schema:contentType": "application/ld+json",
+    "schema:provider": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Warszawa",
+        "postalCode": "02-362",
+        "streetAddress": "Bitwy Warszawskiej 1920 3"
+      },
+      "email": "api@gios.gov.pl",
+      "name": "Główny Inspektorat Ochrony Środowiska"
+    },
+    "dc:title": "Dane pomiarowe w podziale na rok i województwo",
+    "schema:datePublished": "03.11.2022",
+    "schema:keywords": "dane pomiarowe, wyniki pomiarów, powietrze, jakość powietrza, zanieczyszczenie powietrza, stacje pomiarowe, stanowiska pomiarowe, monitoring powietrza, Państwowy Monitoring Środowiska, środowisko, stan środowiska",
+    "schema:isPartOf": "Państwowy Monitoring Środowiska, Jakość powietrza"
+  },
+  "links": {
+    "next": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship?year=2025&voivodeship=%C5%9AL%C4%84SKIE&pollution=PM10&page=1&size=500",
+    "last": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship?year=2025&voivodeship=%C5%9AL%C4%84SKIE&pollution=PM10&page=360&size=500",
+    "prev": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship?year=2025&voivodeship=%C5%9AL%C4%84SKIE&pollution=PM10&page=0&size=500",
+    "self": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship?year=2025&voivodeship=%C5%9AL%C4%84SKIE&pollution=PM10&page=0&size=500",
+    "first": "https://api.gios.gov.pl/pjp-api/v1/rest/archivalData/getDataForAllStationsByYearAndVoivodeship?year=2025&voivodeship=%C5%9AL%C4%84SKIE&pollution=PM10&page=0&size=500"
+  },
+  "totalPages": 361
+}
