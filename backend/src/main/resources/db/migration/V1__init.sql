@@ -38,7 +38,7 @@ CREATE TABLE sensors (
     pollutant_id integer NOT NULL REFERENCES pollutants (id),
     external_id  integer UNIQUE,
     code         varchar(80) UNIQUE,
-    averaging    averaging_period NOT NULL DEFAULT '1g'
+    averaging    averaging_period
 );
 
 CREATE INDEX idx_sensors_station_id ON sensors (station_id);
