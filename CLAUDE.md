@@ -28,4 +28,6 @@ Backend (Java 25, Spring Boot 4.1; run from `backend/`, Maven only via the wrapp
 
 Health check: `curl localhost:8080/actuator/health` (shows `db` and `mongo` status).
 
+API requests live in the Bruno collection in `bruno/` (open the folder in Bruno, pick the `local` environment). Add a `.bru` request under `bruno/PowAir/` for each new endpoint. Never put tokens or passwords in `.bru` files; use Bruno secret variables.
+
 Frontend commands will be added here once that project is created.

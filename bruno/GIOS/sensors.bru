@@ -1,0 +1,15 @@
+meta {
+  name: Sensors at station
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{giosUrl}}/station/sensors/:stationID
+  body: none
+  auth: none
+}
+
+params:path {
+  stationID: 114
+}

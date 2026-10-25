@@ -1,0 +1,114 @@
+Project PowAir {
+  database_type: 'PostgreSQL'
+}
+
+Enum source_type {
+  archive   [note: 'One-off historical import. Never triggers alerts.']
+  live_api  [note: 'Hourly GIOŚ import. Unverified data.']
+}
+
+Enum comparison_operator {
+  gt
+  gte
+  lt
+  lte
+}
+
+Enum averaging_period {
+  "1g"   [note: 'Hourly']
+  "24g"  [note: 'Daily']
+}
+
+Table data_sources {
+  id           integer [pk, increment]
+  name         varchar(100) [not null, unique]
+  source_type  source_type [not null]
+  url          varchar(500)
+  created_at   timestamptz [not null, default: `now()`]
+  Note: 'Seeded in V1 with one archive and one live_api row.'
+}
+
+Table stations {
+  id           integer [pk, increment]
+  external_id  integer [unique, note: 'GIOŚ numeric station id']
+  code         varchar(50) [unique, note: 'GIOŚ station code, e.g. SlKatoKossut']
+  name         varchar(200) [not null]
+  city         varchar(100)
+  voivodeship  varchar(100)
+  street       varchar(200)
+  latitude     numeric(9,6) [note: 'CHECK -90..90']
+  longitude    numeric(9,6) [note: 'CHECK -180..180']
+  is_active    boolean [not null, default: true]
+}
+
+Table pollutants {
+  id    integer [pk, increment]
+  code  varchar(20) [not null, unique, note: 'GIOŚ indicator code: PM10, PM2.5, NO2, SO2, O3, CO, C6H6']
+  name  varchar(100) [not null]
+  unit  varchar(20) [not null, default: 'µg/m3']
+}
+
+Table sensors {
+  id            integer [pk, increment]
+  station_id    integer [not null, ref: > stations.id, note: 'ON DELETE CASCADE']
+  pollutant_id  integer [not null, ref: > pollutants.id]
+  external_id   integer [unique, note: 'GIOŚ sensor id, used to fetch data']
+  code          varchar(80) [unique, note: 'GIOŚ sensor code, e.g. SlKatoKossut-PM10-1g']
+  averaging     averaging_period [not null, default: '1g']
+  Indexes {
+    station_id
+  }
+}
+
+Table measurements {
+  id              bigint [pk, increment]
+  sensor_id       integer [not null, ref: > sensors.id, note: 'ON DELETE CASCADE']
+  data_source_id  integer [not null, ref: > data_sources.id]
+  measured_at     timestamptz [not null]
+  value           numeric(10,3) [not null]
+  imported_at     timestamptz [not null, default: `now()`]
+  Indexes {
+    (sensor_id, measured_at) [unique]
+  }
+}
+
+Table users {
+  id             integer [pk, increment]
+  email          varchar(255) [not null]
+  password_hash  varchar(255) [not null]
+  created_at     timestamptz [not null, default: `now()`]
+  Indexes {
+    `lower(email)` [unique, note: 'Case-insensitive uniqueness']
+  }
+}
+
+Table alert_rules {
+  id            integer [pk, increment]
+  user_id       integer [not null, ref: > users.id, note: 'ON DELETE CASCADE']
+  pollutant_id  integer [not null, ref: > pollutants.id]
+  station_id    integer [ref: > stations.id, note: 'null = any station; ON DELETE RESTRICT']
+  operator      comparison_operator [not null, default: 'gt']
+  threshold     numeric(10,3) [not null]
+  enabled       boolean [not null, default: true]
+  created_at    timestamptz [not null, default: `now()`]
+  Indexes {
+    user_id
+    (id, user_id) [unique, note: 'Target of the composite FK from notifications']
+  }
+}
+
+Table notifications {
+  id              bigint [pk, increment]
+  alert_rule_id   integer [not null]
+  user_id         integer [not null, note: 'Denormalized from alert_rules for the unread count; kept consistent by the composite FK']
+  measurement_id  bigint [not null, ref: > measurements.id, note: 'ON DELETE CASCADE']
+  message         varchar(500) [not null]
+  is_read         boolean [not null, default: false]
+  created_at      timestamptz [not null, default: `now()`]
+  Indexes {
+    (alert_rule_id, measurement_id) [unique]
+    user_id [note: 'Partial: WHERE is_read = false']
+  }
+}
+
+Ref: notifications.(alert_rule_id, user_id) > alert_rules.(id, user_id) [delete: cascade]

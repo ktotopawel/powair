@@ -1,0 +1,19 @@
+meta {
+  name: Current data (last ~3 days)
+  type: http
+  seq: 3
+}
+
+get {
+  url: {{giosUrl}}/data/getData/:sensorId?size=500
+  body: none
+  auth: none
+}
+
+params:query {
+  size: 500
+}
+
+params:path {
+  sensorId: 642
+}

@@ -1,0 +1,16 @@
+meta {
+  name: Stations (findAll)
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{giosUrl}}/station/findAll?page=0&size=500
+  body: none
+  auth: none
+}
+
+params:query {
+  page: 0
+  size: 500
+}

@@ -1,0 +1,26 @@
+meta {
+  name: Archival data by sensor
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{giosUrl}}/archivalData/getDataBySensor/:sensorID?dateFrom=2025-01-01 00:00&dateTo=2025-01-31 23:00&size=500
+  body: none
+  auth: none
+}
+
+params:path {
+  sensorID: 642
+}
+
+params:query {
+  dateFrom: 2025-01-01 00:00
+  dateTo: 2025-01-31 23:00
+  size: 500
+}
+
+docs {
+  Max 366 days per request, 2 requests/min. Check the date format against Swagger:
+  https://api.gios.gov.pl/pjp-api/swagger-ui/index.html
+}
