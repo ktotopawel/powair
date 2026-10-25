@@ -18,4 +18,14 @@ docker compose ps             # check health
 docker compose down           # stop (add -v to wipe data volumes)
 ```
 
-Backend and frontend commands will be added here as those projects are created.
+Backend (Java 25, Spring Boot 4.1; run from `backend/`, Maven only via the wrapper):
+
+```bash
+./mvnw spring-boot:run        # needs compose running; reads credentials from ../.env
+./mvnw test                   # Testcontainers starts its own Postgres/Mongo (Docker must be running)
+./mvnw -DskipTests package    # build target/powair-backend-*.jar
+```
+
+Health check: `curl localhost:8080/actuator/health` (shows `db` and `mongo` status).
+
+Frontend commands will be added here once that project is created.
