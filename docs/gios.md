@@ -119,7 +119,7 @@ API sensors have numeric ids but no code; archive and metadata have codes but no
 |---|---|---|---|
 | 1 | Archival source | Yearly zip (2024–2025), not the archival API | decided |
 | 2 | Units | Store values in the API's units, one unit per pollutant in `pollutants.unit`. Only CO differs from the zip: convert mg/m³ → µg/m³ (×1000) at import | decided; CO unit in API to verify with the first real CO reading |
-| 3 | Unknown sensor code/averaging | `sensors.code` and `sensors.averaging` nullable, filled when known (see Sensor identification) | decided; needs a V2 migration (drop NOT NULL and default on `averaging`) at the start of F7 |
+| 3 | Unknown sensor code/averaging | `sensors.code` and `sensors.averaging` nullable, filled when known (see Sensor identification) | decided; applied in V1 |
 | 4 | Indicators | All indicators, not only the original 7. Skip the three special files (deposition, ions, precursors) | decided |
 | 5 | MongoDB | Raw API responses only. Zip files are not stored in Mongo; reprocessing the archive means re-importing the file | decided |
 | 6 | Time zones | Parse every GIOŚ timestamp as fixed UTC+01:00. If an API response has two rows with the same label, drop both and log it; the next yearly zip fills the gap (archive overwrites live) | decided |

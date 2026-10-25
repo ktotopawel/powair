@@ -54,7 +54,7 @@ Table sensors {
   pollutant_id  integer [not null, ref: > pollutants.id]
   external_id   integer [unique, note: 'GIOŚ sensor id, used to fetch data']
   code          varchar(80) [unique, note: 'GIOŚ sensor code, e.g. SlKatoKossut-PM10-1g']
-  averaging     averaging_period [not null, default: '1g']
+  averaging     averaging_period [note: 'null = not known yet (see docs/gios.md, Sensor identification)']
   Indexes {
     station_id
   }
